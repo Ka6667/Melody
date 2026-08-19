@@ -11,13 +11,13 @@
 * [BOM](#bom)
 
 ## What is MELODY?
-MELODY is a mini game console, you can play 5 games with the panda theme. it's so easy to use and so fun. you can attached to your key chain the design is very to assemble!!
+MELODY is a fun, easy to use mini game console featuring five different panda-themed games! The design is incredibly straightforward to assemble, and it even attaches right to your keychain so you can take it anywhere.
 
 ## Why did I build it?
 my best friend, Melody, asked me to build something for her. so I decided to make a mini game console for her which includes many mini-games. 
 
 ## How to use MELODY?
-you just print the PCB and solder the components, print the 3D design, then assemble it using M2 screws, add it to your key chain. They firmware is very straight forward, you just choose one of the five games and enjoy your time!!
+Bringing MELODY to life is easy! Just print the PCB, solder the components, and 3D print the case. Once your parts are ready, assemble everything using M2 screws and attach it right to your keychain. From there, the firmware is incredibly straightforward—just pick one of the five games and start playing!
 
 ## Schematics
 
