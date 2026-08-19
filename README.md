@@ -1,5 +1,6 @@
 # Melody
-<img width="1410" height="2000" alt="MELODY ZINE" src="https://github.com/user-attachments/assets/cce857a2-05e6-4bcd-94ae-e88561934982" />
+<img width="1410" height="2000" alt="CHECK MY GitHub TO BUILD YOUR OWN DUCKY (1)" src="https://github.com/user-attachments/assets/f6191989-4924-4ff3-b091-59337abcb281" />
+
 ## Table of Contents
 * [What is MELODY?](#what-is-melody)
 * [Why did I build it?](#why-did-i-build-it)
